@@ -1,1 +1,1 @@
-This is another testing stage
+This is another testing stageWelcome to Git Reset Hard
